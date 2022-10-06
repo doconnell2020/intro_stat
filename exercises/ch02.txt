@@ -1,0 +1,12 @@
+Concepts:
+1.a) n is large, p is small? Inflexible is better, reduces the error for max samples, will be more general for new samples.
+
+1.b) N is small, p is very large? Very flexible to give the most wide possibility of accuracy
+
+1c) non liner relationship? flexible given relationship
+
+1d) Var(e) is high? Inflexible to give broad capture
+
+2a) Regression, inference, n = 500, p = 3
+2b) Classification, prediction, n= 20, p= 13
+2c) Regression, prediction, n =52, p = 3
